@@ -4,6 +4,7 @@ EDA и Pipeline обучения модели, использованные пр
 ## RaifHack
 RaifhackDS - онлайн-хакатон Райффайзенбанка в области Data Science. 
 Даты проведения: 24-26 сентября
+
 Ссылка на соревнование https://apply.raifhack.ru/competition
 
 ## Задача
